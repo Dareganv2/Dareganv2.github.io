@@ -25,11 +25,61 @@ h2 {
    left: 200px; 
    width: 20%; 
 }
+
 h3 { }
 
-    
+</style>
+<style> 
+h1 { 
+    color: black;
+    font-weight: normal;
+    line-height: 0.0001em;
+    margin: 0 0 0.1em 3;
+    font: bold 25px/10px helvetica,sans-serif
+}
+h3 {
+        color: black;
+    font-weight: normal;
+    line-height: 0.6em;
+    margin: 0 0 0.001em 3;
+    font: bold 25px/10px helvetica,sans-serif
+    font-weight: normal;
+    font: bold 40px/15px helvetica, sans-serif 
+    letter-spacing: -1px;
+    font-size: 6.5em;
+    margin: 1px;
+    padding: 1px;
+    display: box;
+    width: 100%
+}
+h2 {
+    color: white;
+    font-weight: normal;
+    line-height: 1.1em;
+    margin: -150 199 1999 ;
+    display: box;
+    width 100%;
+    color: white; 
+   font: bold 45px/20px helvetica, sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); 
+   margin 10px;
+   padding: 10px;
+}
+h5 {
+    color: black;
+    font-weight: normal;
+    line-height: 0.0001em;
+    margin: 0 0 0.1em 3;
+    font: bold 35px/15px helvetica,sans-serif
+}
 
-
+a:hover,
+    a:active{ text-decoration: underline; }
+body {
+body
+    font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #999;
+}
 </style>
 </head>
 <h3><center><b> OSO - Obligatorisk Selvvalgt Opgave </br></b> </center></h1> </h3>
