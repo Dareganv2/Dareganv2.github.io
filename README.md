@@ -26,6 +26,7 @@ h1 {
     line-height: 0.0001em;
     margin: 0 0 0.1em 3;
     font: bold 10px/10px helvetica,sans-serif
+   width: 20%;
 }
 h3 {
         color: black;
