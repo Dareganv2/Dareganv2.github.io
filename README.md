@@ -111,8 +111,8 @@ a:hover {
 
 
 <center>
-<a href="#" class="next"><h1>Forside</a> 
-<a href="#" class="next"><h1>Hvordan bliver man</a>
+<a href="#top" class="next"><h1>Forside</a> 
+<a href="#middle" class="next"><h1>Hvordan bliver man</a>
 
 <a href="#" class="next"><h1>Uddanelse</a>
 <a href="#" class="next"><h1>Hvad er software</a>
