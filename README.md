@@ -116,16 +116,7 @@ a:hover {
 </style>
 
 
-<center>
-<a href="#top" class="next"><h1>Forside</a> 
-<a href="#middle" class="next"><h1>Hvordan bliver man</a>
 
-<a href="#" class="next"><h1>Uddanelse</a>
-<a href="#" class="next"><h1>Hvad er software</a>
-<a href="#" class="next"><h1>Hvorfor vil jeg</a>
-<a href="#" class="next"><h1>Problemstilling</a>
-<a href="#" class="next"><h1>Fordybelsesemne</a>
-</center> 
 </style>
 <p> <a>
 <center>
