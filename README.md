@@ -1,19 +1,9 @@
-<!doctype html>
-<html>
 
-<head>
-<title> Kristian's OSO </title> 
-<link rel="stylesheet" href=style.css type=text/css. media="only screen" />
-<link href="MobileStyleSheet.css" rel="stylesheet" type="text/css" media="only screen and (max-device-width: 480px) , only screen and (-webkit-min-device-pixel-ratio: 2) , screen and (-webkit-device-pixel-ratio:1.5)" />
-<center>
-<div class="image">
-<img src=  "http://adeptsolutionsinc.com/wp-content/uploads/2014/12/software-testing-1400x565.jpg" height=550 weidth=75 /> <alt="" </center>
-<div id="row">
 <h2>Software ingeniør  </h2>  
 
 
 <style>
-.image { 
+image { 
    position: relative; 
    width: 100%;  
    height: 70%;
@@ -35,7 +25,7 @@ h1 {
     font-weight: normal;
     line-height: 0.0001em;
     margin: 0 0 0.1em 3;
-    font: bold 25px/10px helvetica,sans-serif
+    font: bold 10px/10px helvetica,sans-serif
 }
 h3 {
         color: black;
@@ -111,39 +101,38 @@ a:hover {
 
 
 <center>
-<a href="#" class="next"><h1>Forside</a> 
-<a href="#" class="next"><h1>Hvordan bliver man</a>
+<a href="#" class="next"><h1>Forside
+<a href="#" class="next"><h1>Hvordan bliver man
 
 <a href="#" class="next"><h1>Uddanelse</a>
-<a href="#" class="next"><h1>Hvad er software</a>
-<a href="#" class="next"><h1>Hvorfor vil jeg</a>
-<a href="#" class="next"><h1>Problemstilling</a>
-<a href="#" class="next"><h1>Fordybelsesemne</a>
+<a href="#" class="next"><h1>Hvad er software
+<a href="#" class="next"><h1>Hvorfor vil jeg
+<a href="#" class="next"><h1>Problemstilling
+<a href="#" class="next"><h1>Fordybelsesemne
 </center> 
 </style>
 
-<p> <a><h5> Software ingeniør </h5> </a>
+<p> <a><h5> Software ingeniør </h5>
 
 
 
-<p> <a><h5> Hvordan bliver man software ingeniør  </h5> </a>
+<p> <a><h5> Hvordan bliver man software ingeniør  </h5>
 
 
-<p> <a><h5> Uddanelse </h5> </a>
+<p> <a><h5> Uddanelse </h5> 
 
 
-<p> <a><h5> Hvad er software </h5> </a>
+<p> <a><h5> Hvad er software </h5>
 
 
-<p> <a><h5> Hvorfor vil jeg være Software Ingeniør </h5> </a>
+<p> <a><h5> Hvorfor vil jeg være Software Ingeniør </h5> 
 
 
-<p> <a><h5> Problemstilling </h5> </a>
+<p> <a><h5> Problemstilling </h5> 
 
+<p> <a><h5> Produkt </h5> 
 
-<p> <a><h5> Produkt </h5> </a>
-
-<p> <a><h5> Fordybelsemne </h5> </a>
+<p> <a><h5> Fordybelsemne </h5> 
 
 </body>
 </html>
